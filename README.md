@@ -58,12 +58,12 @@
   
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" height="42px" alt="figma" />
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" height="42px" alt="git" />
-  <br />
-  <img align="left" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" height="42px" alt="confluence" />
+</div>
+<br />
+<div style="display: flex; flex-wrap: nowrap;">
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" height="42px" alt="jira" />
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" height="42px" alt="slack" />
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/telegram.svg" height="42px" alt="telegram" />
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="42px" alt="html5" />
   <img align="left" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" height="42px" alt="css3" />
 </div>  
-
