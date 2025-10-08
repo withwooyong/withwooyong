@@ -30,7 +30,6 @@
 - 💬 **문의사항**: 리드 개발자, 기술 리더십
 - 📝 **이력서**: [withwooyong.github.io](https://withwooyong.github.io/)
 - 🎯 **포트폴리오**: [portfolio-withwooyong.vercel.app](https://portfolio-withwooyong.vercel.app/)
-- 📄 **기술 블로그**: [github.com/zztkdfo/writing](https://github.com/zztkdfo/writing)
 - 📫 **연락처**: withwooyong@gmail.com
 - 😄 **이름**: Ted (허우용)
 - ⚡ **취미**: 개발, 독서, 러닝, 글쓰기, 지식 공유
