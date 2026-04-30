@@ -1,15 +1,18 @@
-# Hi <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="24"/> I'm Agile Developer
+# Hi  I'm Agile Developer
 
 👋 안녕하세요, 반갑습니다. 20년차 개발자 **Ted (허우용)** 입니다.
 
 #### 👥 Team Lead
-**프론트엔드 · 백엔드 · 앱 · DevOps · 서비스 기획 · 디자인** 등 **약 30명 규모의 조직**을 이끌고 있습니다.
+
+- **프론트엔드 · 백엔드 · 앱 · DevOps · 서비스 기획 · 디자인** 등 **약 30명 규모의 조직**을 이끌고 있습니다.
 
 #### 🛠️ Full-Stack Hands-on
-**풀스택 엔지니어**로 기획 · 디자인 · 개발 전 과정에 직접 참여하는 **Hands-on Experience** 를 중요하게 생각합니다.
+
+- **풀스택 엔지니어**로 기획 · 디자인 · 개발 전 과정에 직접 참여하는 **Hands-on Experience** 를 중요하게 생각합니다.
 
 #### 🤖 AI-Powered Productivity
-퇴근 후에는 다양한 분야의 기술을 학습하며 도전을 이어가고 있으며, 요즘은 **AI Agent**와 **Claude Code**를 활용해 조직과 개인의 개발 생산성을 극대화하는 데 집중하고 있습니다.
+
+- 퇴근 후에는 다양한 분야의 기술을 학습하며 도전을 이어가고 있으며, 요즘은 **AI Agent**와 **Claude Code**를 활용해 조직과 개인의 개발 생산성을 극대화하는 데 집중하고 있습니다.
 
 ## 💭 Philosophy
 
@@ -29,21 +32,14 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img alt="코딩" width="280" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-</p>
+
 
 - 🔭 **현재 근무**: 카카오계열사 야나두
 - 🏢 **이전 근무**: 쌍용정보통신, CJ Hellovision, SK Broadband
-- 🌱 **현재 학습 중**: AI Agent 오케스트레이션, Claude Code, LangGraph, FastAPI
-- 👯 **협업 희망**: 오픈소스 프로젝트, 기술 공유, AI 기반 사이드 프로젝트
-- 🤔 **도움 요청**: 멀티 에이전트 아키텍처, AI 기반 개발 워크플로우
-- 💬 **문의사항**: 리드 개발자, 기술 리더십, AI 도입/통합, BI 대시보드 구축
+- 🌱 **학습 중**: AI Agent 오케스트레이션
 - 📝 **이력서**: [withwooyong.github.io](https://withwooyong.github.io/)
-- 🎯 **포트폴리오**: [portfolio-withwooyong.vercel.app](https://portfolio-withwooyong.vercel.app/)
-- 📫 **연락처**: withwooyong@gmail.com
+- 📫 **연락처**: [withwooyong@gmail.com](mailto:withwooyong@gmail.com)
 - 😄 **이름**: Ted (허우용)
-- ⚡ **취미**: 개발, 독서, 러닝, 글쓰기, 지식 공유
 
 ## ✨ Recent Personal Projects
 
@@ -55,90 +51,88 @@
 
 ## 🛠️ Tech Stack
 
-<details>
-<summary><b>클릭하여 펼치기 / 접기</b></summary>
+**클릭하여 펼치기 / 접기**
 
 ### Backend Development
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+Spring Boot
+Java
+Kotlin
+Python
+FastAPI
+Node.js
+NestJS
+pytest
 
 ### Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+React
+Next.js
+TypeScript
+JavaScript
+Vue3
 
 ### Mobile Development
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat-square&logo=expo&logoColor=white)
+Android
+Flutter
+React Native
+Expo
 
 ### Databases & Storage
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+Redis
+MongoDB
+PostgreSQL
+Oracle
+Microsoft SQL Server
+Elasticsearch
 
 ### Cloud & DevOps
 
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-FF9900?style=flat-square&logo=amazonrds&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-FF9900?style=flat-square&logo=amazoncloudfront&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![AWS CodeCommit](https://img.shields.io/badge/AWS_CodeCommit-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CodeBuild](https://img.shields.io/badge/AWS_CodeBuild-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS CodeDeploy](https://img.shields.io/badge/AWS_CodeDeploy-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+AWS EC2
+AWS S3
+AWS RDS
+AWS CloudFront
+AWS Lambda
+AWS CodeCommit
+AWS CodeBuild
+AWS CodeDeploy
+Docker
+Docker Compose
+Nginx
+GitHub Actions
 
 ### AI
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-FF7F00?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Veo3](https://img.shields.io/badge/Veo3-4285F4?style=flat-square&logo=google&logoColor=white)
-![Google STT](https://img.shields.io/badge/Google_STT-4285F4?style=flat-square&logo=google&logoColor=white)
-![DeepL](https://img.shields.io/badge/DeepL-0F2C4C?style=flat-square&logo=deepl&logoColor=white)
-![Naver Clova](https://img.shields.io/badge/Naver_Clova-03C75A?style=flat-square&logo=naver&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=langchain&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+OpenAI
+Claude
+Gemini
+Veo3
+Google STT
+DeepL
+Naver Clova
+LangChain
+LangGraph
+Claude Code
+Cursor
 
 ### Data & Analytics
 
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white)
-![Redash](https://img.shields.io/badge/Redash-FF7964?style=flat-square&logo=redash&logoColor=white)
+Metabase
+Redash
 
 ### Tools & Others
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![GNU Make](https://img.shields.io/badge/GNU_Make-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+Git
+Figma
+Kafka
+GNU Make
 
 ### Collaboration Tools
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+Jira
+Confluence
+Slack
+Telegram
 
-</details>
