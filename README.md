@@ -1,7 +1,8 @@
 # Hi <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="24"/> I'm Agile Developer
 
 안녕하세요, 반갑습니다. 20년차 개발자 Ted (허우용) 입니다.
-출근 해서는 **리드 개발자**로, 퇴근 후는 1인 개발자로 **경제적 자유**와 **디지털 노마드**를 위해 다양한 분야의 기술들을 학습하며 도전해보고 있습니다.
+**프론트엔드 · 백엔드 · 앱 · DevOps · 서비스 기획 · 디자인** 등 **약 30명 규모의 조직**을 이끌고 있으며, 동시에 **풀스택 엔지니어**로 기획 · 디자인 · 개발 전 과정에 직접 참여하는 **Hands-on Experience** 를 중요하게 생각합니다.
+퇴근 후에는 다양한 분야의 기술을 학습하며 도전을 이어가고 있으며, 요즘은 **AI Agent**와 **Claude Code**를 활용해 조직과 개인의 개발 생산성을 극대화하는 데 집중하고 있습니다.
 
 ## 💭 Philosophy
 
@@ -25,15 +26,23 @@
 
 - 🔭 **현재 근무**: 카카오계열사 야나두
 - 🏢 **이전 근무**: 쌍용정보통신, CJ Hellovision, SK Broadband
-- 🌱 **현재 학습 중**: AI, 팀 협업&리딩, 브랜딩, 서비스
-- 👯 **협업 희망**: 오픈소스 프로젝트, 기술 공유
-- 🤔 **도움 요청**: 새로운 기술 트렌드, 아키텍처 설계
-- 💬 **문의사항**: 리드 개발자, 기술 리더십
+- 🌱 **현재 학습 중**: AI Agent 오케스트레이션, Claude Code, LangGraph, FastAPI
+- 👯 **협업 희망**: 오픈소스 프로젝트, 기술 공유, AI 기반 사이드 프로젝트
+- 🤔 **도움 요청**: 멀티 에이전트 아키텍처, AI 기반 개발 워크플로우
+- 💬 **문의사항**: 리드 개발자, 기술 리더십, AI 도입/통합, BI 대시보드 구축
 - 📝 **이력서**: [withwooyong.github.io](https://withwooyong.github.io/)
 - 🎯 **포트폴리오**: [portfolio-withwooyong.vercel.app](https://portfolio-withwooyong.vercel.app/)
 - 📫 **연락처**: withwooyong@gmail.com
 - 😄 **이름**: Ted (허우용)
 - ⚡ **취미**: 개발, 독서, 러닝, 글쓰기, 지식 공유
+
+## ✨ Recent Personal Projects
+
+- **AI 영어교육 플랫폼 Backend** — FastAPI + OpenAI 기반 교육 서비스 백엔드 (Redis 캐싱, PostgreSQL, 스케줄러 작업)
+- **퍼포먼스 마케팅 대시보드** — Metabase / Redash 기반 매출·광고·퍼널 지표 시각화 (Docker Compose 인프라, Nginx 리버스 프록시)
+- **MySQL → MSSQL 마이그레이션 툴** — 200만+ 건 대용량 데이터 무중단 이관 (체크포인트/재시작, FK 의존성 자동 처리, IDENTITY_INSERT 안전 처리)
+- **야나두 스피크 (Yanadoo Speak)** — AI 음성인식 기반 몰입형 영어 말하기 학습 앱 (React Native / Expo)
+- **AI Dev Team Orchestration** — Claude Code 기반 멀티 에이전트 협업 워크플로우
 
 ## 🛠️ Tech Stack
 
@@ -46,6 +55,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 ### Frontend Development
 
@@ -59,6 +69,8 @@
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
 ### Databases & Storage
 
@@ -79,6 +91,10 @@
 ![AWS CodeCommit](https://img.shields.io/badge/AWS_CodeCommit-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS CodeBuild](https://img.shields.io/badge/AWS_CodeBuild-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS CodeDeploy](https://img.shields.io/badge/AWS_CodeDeploy-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### AI
 
@@ -91,12 +107,20 @@
 ![Naver Clova](https://img.shields.io/badge/Naver_Clova-03C75A?style=for-the-badge&logo=naver&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+### Data & Analytics
+
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Redash](https://img.shields.io/badge/Redash-FF7964?style=for-the-badge&logo=redash&logoColor=white)
 
 ### Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![GNU Make](https://img.shields.io/badge/GNU_Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### Collaboration Tools
 
