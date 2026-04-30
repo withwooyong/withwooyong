@@ -34,8 +34,8 @@
 
 <img align="right" alt="코딩" width="220" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-- 🔭 **근무**: 카카오계열사 야나두
-- 🏢 **Before**: 쌍용정보통신연구소 (KT NMS/IPTV), CJ Hellovision (TVING), SK Broadband (BTV)
+- 🔭 **근무**: 카카오계열사 야나두 (커머스플랫폼:교육/취미/스포츠)
+- 🏢 **Before**: SICC(KT NMS/IPTV), CJHV(TVING), SKB(BTV)
 - 🌱 **학습 중**: AI Agent 오케스트레이션, Harness Engineering, n8n 자동화
 - 📝 **이력**: [withwooyong.github.io](https://withwooyong.github.io/)
 - 📫 **메일**: withwooyong@gmail.com
@@ -49,7 +49,6 @@
 - 🔄 **MySQL → MSSQL 마이그레이션 툴** — 이기종 데이터베이스 복제
 - 🎓 **AI 영어교육 플랫폼 Backend** — FastAPI + OpenAI 기반 교육 서비스 백엔드
 - 🎤 **야나두 스피크 (Yanadoo Speak)** — AI 음성인식 기반 몰입형 영어 말하기 학습 앱
-
 
 ## 🛠️ Tech Stack
 
