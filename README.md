@@ -1,18 +1,12 @@
-# Hi  I'm Agile Developer
+# Hi  I'm Agile Developer (with AI)
 
 👋 안녕하세요, 반갑습니다. 20년차 개발자 **Ted (허우용)** 입니다.
 
-#### 👥 Team Lead
+#### 👥 Team Lead: **프론트엔드 · 백엔드 · 앱 · DevOps · 서비스 기획 · 디자인** 등 **약 30명 규모의 조직** 리더
 
-- **프론트엔드 · 백엔드 · 앱 · DevOps · 서비스 기획 · 디자인** 등 **약 30명 규모의 조직**을 이끌고 있습니다.
+#### 🛠️ Hands-on: **엔지니어**로 기획 · 디자인 · 개발 전 과정에 직접 참여하는 **Hands-on Experience** 를 중요하게 생각
 
-#### 🛠️ Full-Stack Hands-on
-
-- **풀스택 엔지니어**로 기획 · 디자인 · 개발 전 과정에 직접 참여하는 **Hands-on Experience** 를 중요하게 생각합니다.
-
-#### 🤖 AI-Powered Productivity
-
-- 퇴근 후에는 다양한 분야의 기술을 학습하며 도전을 이어가고 있으며, 요즘은 **AI Agent**와 **Claude Code**를 활용해 조직과 개인의 개발 생산성을 극대화하는 데 집중하고 있습니다.
+#### 🤖 AI-Powered Productivity: **AI Agent**와 **Claude Code**를 활용해 조직과 개인의 개발 생산성을 극대화하는 데 집중
 
 ## 💭 Philosophy
 
@@ -32,8 +26,6 @@
 
 ## 👨‍💻 About Me
 
-
-
 - 🔭 **현재 근무**: 카카오계열사 야나두
 - 🏢 **이전 근무**: 쌍용정보통신, CJ Hellovision, SK Broadband
 - 🌱 **학습 중**: AI Agent 오케스트레이션
@@ -43,11 +35,11 @@
 
 ## ✨ Recent Personal Projects
 
-- 🎓 **AI 영어교육 플랫폼 Backend** — FastAPI + OpenAI 기반 교육 서비스 백엔드 (Redis 캐싱, PostgreSQL, 스케줄러 작업)
-- 📊 **퍼포먼스 마케팅 대시보드** — Metabase / Redash 기반 매출·광고·퍼널 지표 시각화 (Docker Compose 인프라, Nginx 리버스 프록시)
-- 🔄 **MySQL → MSSQL 마이그레이션 툴** — **약 수백만 가입자** 서비스의 대규모 데이터 무중단 이관
-- 🎤 **야나두 스피크 (Yanadoo Speak)** — AI 음성인식 기반 몰입형 영어 말하기 학습 앱 (React Native / Expo)
 - 🤖 **AI Dev Team Orchestration** — Claude Code 기반 멀티 에이전트 협업 워크플로우
+- 🎓 **AI 영어교육 플랫폼 Backend** — FastAPI + OpenAI 기반 교육 서비스 백엔드
+- 📊 **퍼포먼스 마케팅 대시보드** — Metabase / Redash 기반 매출·광고·퍼널 지표 시각화
+- 🔄 **MySQL → MSSQL 마이그레이션 툴** — **약 수백만 가입자** 서비스의 대규모 데이터 무중단 이관
+- 🎤 **야나두 스피크 (Yanadoo Speak)** — AI 음성인식 기반 몰입형 영어 말하기 학습 앱
 
 ## 🛠️ Tech Stack
 
@@ -135,4 +127,3 @@ Jira
 Confluence
 Slack
 Telegram
-
