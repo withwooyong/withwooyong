@@ -1,18 +1,19 @@
-# Hi <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="24"/> I'm Agile Developer
+# Hi <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="24"/> I'm a Backend Development Leader
 
-👋 안녕하세요, 반갑습니다. 20년차 개발자 **Ted (허우용)** 입니다.
+👋 안녕하세요, 반갑습니다. **20년차 백엔드 개발 리더 Ted (허우용)** 입니다.
+**야나두 개발실장**으로 교육 · 커머스 · AI 서비스를 책임지고 있습니다.
 
 #### 👥 Team Lead
 
-**프론트엔드 · 백엔드 · 앱 · DevOps · 서비스 기획 · 디자인** 등 **약 30명 규모의 조직**을 이끌고 있습니다.
+**프론트엔드 · 백엔드 · 앱 · DevOps · 서비스 기획 · 디자인** 을 아우르는 **20~30인 개발 조직**을 단일 리더로 총괄합니다.
 
-#### 🛠️ Full-Stack Hands-on
+#### ⚙️ Backend-Centric Hands-on
 
-**풀스택 엔지니어**로 기획 · 디자인 · 개발 전 과정에 직접 참여하는 **Hands-on Experience** 를 중요하게 생각합니다.
+주 포지션은 **백엔드** — **시스템 · DB · API 설계**와 아키텍처 의사결정을 직접 주도하고, 프론트 · 앱 · 인프라는 조직을 리딩합니다.
 
-#### 🤖 AI-Powered Productivity
+#### 🤖 AI Transformation
 
-**AI Agent**와 **Claude Code**를 활용해 조직과 개인의 개발 생산성을 극대화하는 데 집중하고 있습니다.
+조직의 **AX(AI 전환)** 를 주도합니다. **AI 구독 도입부터 개발 문화 · 오류/보안 거버넌스까지 설계**해 시스템 개발 기간을 **절반(6→3개월, 50%↓)** 으로 단축했습니다.
 
 ## 💭 Philosophy
 
@@ -32,15 +33,39 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="코딩" width="260" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+<p align="center">
+  <img alt="코딩" width="260" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+</p>
 
-- 🔭 **근무**: 카카오계열사 야나두 (커머스플랫폼:교육/취미/스포츠)
-- 🏢 **Before**: SICC(KT NMS/IPTV), CJHV(TVING), SKB(BTV)
+- 🔭 **근무**: (주)야나두 a kakao company — 개발실장 / 개발 총괄 (교육 · 커머스 · AI)
+- 🏢 **Before**: SK브로드밴드(B tv), CJ헬로비전(TVING), 쌍용정보통신(KT NMS/IPTV)
+- 🧭 **전문**: 백엔드 시스템 · DB · API 설계 / 검색 · 추천 / 대용량 데이터 파이프라인 / 조직 리딩
 - 🌱 **학습 중**: AI Agent 오케스트레이션, Harness Engineering, n8n 자동화
 - 📝 **이력**: [withwooyong.github.io](https://withwooyong.github.io/)
+- 📂 **포트폴리오**: [Notion](https://bit.ly/48M3DUa)
 - 📫 **메일**: withwooyong@gmail.com
 - 😄 **이름**: Ted (허우용)
-- ⚡ **취미**: 개발
+
+## 💼 Career
+
+> SI → 미디어/OTT → 교육·커머스로 이어지는 **약 20년**의 백엔드 개발 여정.
+> Staff → PL → PM → 개발실장까지, 직접 만드는 일(0→1)과 안정적으로 운영하는 일(1→N)을 모두 경험했습니다.
+
+| 회사 | 직책 / 역할 | 기간 | 서비스 |
+|---|---|---|---|
+| **(주)야나두** a kakao company | 개발실장 · 교육/커머스/AI 개발 총괄 | 2022.02 ~ 현재 | 야나두 · 야핏 · AI 영어 |
+| **SK브로드밴드** | Senior Engineer / PM — B tv 백엔드 | 2017.04 ~ 2021.06 | B tv |
+| **CJ헬로비전** | 백엔드 CMS 파트 리드 (PL) | 2012.06 ~ 2017.04 | TVING |
+| **쌍용정보통신** 통신연구소 | 백엔드 개발 (뉴미디어기술팀, KT 파견) | 2005.05 ~ 2012.06 | KT 보안관제 · IPTV |
+
+> ※ KT · CJ · SK는 자체 IDC(온프레미스), 야나두는 AWS 클라우드 — 양쪽 환경 운영 경험을 모두 갖췄습니다.
+
+## 🎯 Highlights
+
+- 🔍 **검색 · 추천 시스템** — TVING(MongoDB)과 B tv(Elasticsearch · ELK · Kafka)에서 서로 다른 규모 · 스택으로 직접 설계 · 구축
+- 🎓 **AI 영어 라인업** — 야나두 AI 튜터 · 원어민톡 · 레벨테스트 등 백엔드 설계 · 구축
+- 🤖 **조직 AX 주도** — AI 구독 도입부터 개발 문화 · 거버넌스까지 설계, 회계 · 마케팅 시스템 개발 기간 6→3개월(50%↓)
+- 📈 **0→1 & 1→N** — 1,000만+ 사용자 규모의 미디어 서비스 운영과 신규 서비스 구축을 모두 경험
 
 ## ✨ Recent Personal Projects
 
