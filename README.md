@@ -42,7 +42,6 @@
 - 🧭 **전문**: 백엔드 시스템 · DB · API 설계 / 검색 · 추천 / 대용량 데이터 파이프라인 / 조직 리딩
 - 🌱 **학습 중**: AI Agent 오케스트레이션, Harness Engineering, n8n 자동화
 - 📝 **이력**: [withwooyong.github.io](https://withwooyong.github.io/)
-- 📂 **포트폴리오**: [Notion](https://bit.ly/48M3DUa)
 - 📫 **메일**: withwooyong@gmail.com
 - 😄 **이름**: Ted (허우용)
 
