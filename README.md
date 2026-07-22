@@ -8,7 +8,7 @@
 
 | | |
 | --- | --- |
-| 📘 **경력기술서 · 포트폴리오** | https://bit.ly/48M3DUa |
+| 📘 **경력기술서 · 포트폴리오** | https://withwooyong.github.io/notion |
 | 🌐 **이력 사이트** | https://withwooyong.github.io |
 | 📫 **메일** | withwooyong@gmail.com |
 
