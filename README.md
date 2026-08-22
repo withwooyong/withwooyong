@@ -10,6 +10,7 @@
 | --- | --- |
 | 📘 **경력기술서 · 포트폴리오** | https://withwooyong.github.io/notion |
 | 🌐 **이력 사이트** | https://withwooyong.github.io |
+| 🌐 **기술노트** | https://withwooyong.github.io/blog/ |
 | 📫 **메일** | withwooyong@gmail.com |
 
 ## 🧭 What I Do
