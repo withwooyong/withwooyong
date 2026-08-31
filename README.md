@@ -1,4 +1,4 @@
-# Ted (허우용) — Development Leader
+# Ted (허우용) — Product Development Leader
 
 **20년차 개발 리더**입니다. 백엔드 아키텍처를 직접 설계하며 **20~30인 개발 조직을 총괄**해 왔습니다.
 
